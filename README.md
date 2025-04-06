@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sakethpatchava
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on full stack development
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Data Science
 
 <!---
 sakethpatchava/sakethpatchava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
